@@ -1,0 +1,9 @@
+{
+  "name": "terminus-plugin-project/terminus-plugin-help-plugin",
+  "description": "Plugin Help - A Terminus plugin to provide advanced plugin help",
+  "homepage": "https://github.com/terminus-plugin-project/terminus-plugin-help-plugin",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4"
+  },
+}
